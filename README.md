@@ -11,7 +11,9 @@
 2. Easy restaurant and food item browsing with category-based navigation.
 3. Powerful search and filtering options for quick food discovery.
 4. Detailed food item pages with images.
-5. Mobile-first responsive design for enhanced accessibility.
+5. User profile and order history management.
+6. Consistent design system with reusable components
+7. Mobile-first responsive design for enhanced accessibility.
 
 
 # Result :- 
