@@ -1,4 +1,4 @@
-# Food Delivery App Ui using Figma:-
+# Food Delivery App Ui :-
 
 1. A high-fidelity, user-centric mobile application design built in Figma. 
 2. This project demonstrates a modern approach to the food delivery experience, focusing on clean aesthetics, intuitive navigation, and a frictionless checkout flow.
